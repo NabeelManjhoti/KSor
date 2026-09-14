@@ -22,6 +22,12 @@ Beside it, the **human interface** is a site your readers browse. Same record,
 same governance, different machinery: the site is files, the door is a process,
 and they deploy separately.
 
+> [!NOTE]
+> This project was completed as a student assignment for the **Governor
+> Initiative for Applied Intelligence & Computing (GIAIC)** — the record, the
+> system that serves it, and the wiring to the hosted Postgres below are all
+> part of that work.
+
 **Contents**
 
 - [Quick start](#quick-start)
